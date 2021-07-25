@@ -1,6 +1,4 @@
-[//]: # (Image References)
-
-[image1]: trained_agent.gif "Trained Agent"
+<img src="trained_agent.gif" width="350" />
 
 # Project 1: Navigation
 
